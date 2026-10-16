@@ -1,0 +1,16 @@
+{
+  "audience_email": "property-team@example.com",
+  "week_ending": "2026-10-04",
+  "maintenance_requests": [
+    {"property_name": "Cedar Court", "summary": "Boiler pressure loss", "priority": "urgent", "opened_on": "2026-09-28"},
+    {"property_name": "Maple House", "summary": "Hallway light replacement", "priority": "routine", "opened_on": "2026-09-27"}
+  ],
+  "tenant_documents": [
+    {"property_name": "Cedar Court", "tenant_name": "Alex Morgan", "document_name": "Insurance certificate", "due_on": "2026-10-02", "received": false},
+    {"property_name": "Maple House", "tenant_name": "Sam Lee", "document_name": "Renewal form", "due_on": "2026-10-03", "received": true}
+  ],
+  "inspection_reminders": [
+    {"property_name": "Cedar Court", "inspection_type": "Fire alarm", "scheduled_for": "2026-10-06"}
+  ]
+}
+
